@@ -31,9 +31,13 @@ img {
 }
 
 .logo-part {
-    color: #2e2f42;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
 }
 
 .nav-link {
@@ -155,6 +159,31 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.section-footer {
+    background: #2e2f42;
+}
+
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo-part-footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+}
+
 
 .text-footer {
     font-size: 16px;
