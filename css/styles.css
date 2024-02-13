@@ -16,6 +16,9 @@ button {
     cursor: pointer;
 }
 
+img {
+    display: block;
+}
 
 .logo {
     font-family: "Raleway", sans-serif;
